@@ -19,8 +19,6 @@ To explore, analyze, and visualize the 2024 Paris Olympics data in an interactiv
 ## 📁 Project Structure
 
 
-
-## 📷 Dashboard Preview
 ## 🔗 Dataset Source
 [Kaggle – Paris Olympics 2024 Dataset](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
 I am not use all files from this dataset. i used only 3-5 files only.
@@ -41,8 +39,7 @@ I am not use all files from this dataset. i used only 3-5 files only.
 For any queries or suggestions:  
 **Kunal Shukla**  
 📧 kunalshukla82002@gmail.com 
-🌐 [LinkedIn or Portfolio Link]
-
+🌐 www.linkedin.com/in/kunal-shukla-4569bb31b
 ---
 
 Feel free to fork, star ⭐, or suggest improvements.  
